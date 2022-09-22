@@ -1,0 +1,21 @@
+2022-09-22 13:40:53,695 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-22 13:47:23,542 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bikkadIt:SpringBootWithRestful:0.0.1-SNAPSHOT @ C:\Users\Lenovo\Desktop\TeamLead\SpringBootWithRestful\pom.xml.
+2022-09-22 13:47:25,637 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootWithRestful/src/main/java
+2022-09-22 13:47:25,638 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootWithRestful/src/main/resources
+2022-09-22 13:47:25,642 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootWithRestful/src/main/resources
+2022-09-22 13:47:25,645 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootWithRestful/src/test/java
+2022-09-22 13:47:28,307 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2022-09-22 13:47:28,312 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-22 13:47:28,645 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bikkadIt:SpringBootWithRestful:0.0.1-SNAPSHOT @ C:\Users\Lenovo\Desktop\TeamLead\SpringBootWithRestful\pom.xml.
+2022-09-22 13:47:29,498 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootWithRestful/src/main/java
+2022-09-22 13:47:29,498 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootWithRestful/src/main/resources
+2022-09-22 13:47:29,499 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootWithRestful/src/main/resources
+2022-09-22 13:47:29,500 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootWithRestful/src/test/java
+2022-09-22 13:47:30,002 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-09-22 13:47:30,887 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-22 13:47:30,887 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-22 13:47:30,891 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-22 13:47:30,906 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-22 13:47:30,909 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-22 13:47:30,910 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-22 13:47:30,910 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lenovo\Desktop\TeamLead\SpringBootWithRestful\src\test\resources
